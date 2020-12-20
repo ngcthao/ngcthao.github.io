@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #topbar .contact-info a {
   line-height: 1;
-  color: #535561;
+  color: #20222b;
   transition: 0.3s;
 }
 
@@ -844,7 +844,7 @@ section {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: #f7fbff  !important;
+  background-color: #20222b  !important;
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
